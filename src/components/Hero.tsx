@@ -68,7 +68,7 @@ export function Hero() {
             delay: 0.1,
             ease: 'easeOut'
           }} className="text-4xl md:text-6xl lg:text-7xl font-bold text-seo-text-primary leading-tight tracking-tight">
-              A Done-For-You SEO, Google & Website Growth System for{' '}
+              A Done-For-You SEO, Google & Website Growth Plan for{' '}
               <span className="bg-gradient-to-r from-seo-gold-light to-seo-gold-dark bg-clip-text text-transparent">
                 Serious Business Owners
               </span>
